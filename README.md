@@ -1,4 +1,4 @@
-cocos2d_simple_game
-===================
+Building an iOS game
+====================
 
-Building a simple iOS game using cocos2d.
+Here's a very simple iOS game built using cocos2d.
