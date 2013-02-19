@@ -1,0 +1,21 @@
+1. sprite motion
+
+alien.png = 44x32
+square.png = 50x50
+alienN = 46x39
+player = 50x20
+
+5. hit test
+
+a. move to new random position:
+CGSize size = [[CCDirector sharedDirector] winSize];
+alien.position = ccp(size.width/2 + CCRANDOM_MINUS1_1() * 100, size.height/2 + CCRANDOM_MINUS1_1() * 100);
+
+7. Invaders - the game
+
+a. kill counter
+b. kill sound
+c. continuous player motion
+d. multiple missile in flight
+e. start scene
+f. app icons / splash screen
