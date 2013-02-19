@@ -1,9 +1,6 @@
 //
 //  main.m
-//  cocos2d-2.x-ARC-iOS
-//
-//  Created by Steffen Itterheim on 27.04.12.
-//  Copyright __MyCompanyName__ 2012. All rights reserved.
+//  Invaders3
 //
 
 #import <UIKit/UIKit.h>
