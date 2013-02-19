@@ -19,8 +19,9 @@ b. start/stop
 
 3. sprite animation
 
-a. repeating
-b. move + animate
+a. animation speed
+b. repeating forever
+c. combine animation + move
 
 4. sound
 
@@ -35,7 +36,8 @@ alien.position = ccp(size.width/2 + CCRANDOM_MINUS1_1() * 100, size.height/2 + C
 6. actions
 
 a. other actions
-b. reverse
+b. pause + resume action
+c. reverse
 
 7. Invaders - the game
 
