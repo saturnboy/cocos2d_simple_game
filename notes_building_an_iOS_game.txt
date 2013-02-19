@@ -5,11 +5,37 @@ square.png = 50x50
 alienN = 46x39
 player = 50x20
 
+a. other move
+b. rotate
+c. scale
+d. boundary collisions
+e. start/stop
+f. 2nd sprite
+
+2. touch handling
+
+a. begin/move/end
+b. start/stop
+
+3. sprite animation
+
+a. repeating
+b. move + animate
+
+4. sound
+
+a. other sounds
+
 5. hit test
 
 a. move to new random position:
 CGSize size = [[CCDirector sharedDirector] winSize];
 alien.position = ccp(size.width/2 + CCRANDOM_MINUS1_1() * 100, size.height/2 + CCRANDOM_MINUS1_1() * 100);
+
+6. actions
+
+a. other actions
+b. reverse
 
 7. Invaders - the game
 
