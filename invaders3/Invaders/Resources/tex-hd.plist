@@ -150,7 +150,7 @@
             <key>invaders.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{114,2},{388,56}}</string>
+                <string>{{116,2},{388,56}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -176,20 +176,20 @@
             <key>missile.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{8,30}}</string>
+                <string>{{2,2},{10,28}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{0,0},{8,30}}</string>
+                <string>{{0,0},{10,28}}</string>
                 <key>sourceSize</key>
-                <string>{8,30}</string>
+                <string>{10,28}</string>
             </dict>
             <key>player.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{12,2},{100,40}}</string>
+                <string>{{14,2},{100,40}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -222,7 +222,7 @@
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1ee77463df1e4f5ff044a1e9dc1f76f8$</string>
+            <string>$TexturePacker:SmartUpdate:5536049f35034f438f6c79462f91e4cd$</string>
             <key>textureFileName</key>
             <string>tex-hd.png</string>
         </dict>
