@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D07564A01766DE4B0044B8BA /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D075649D1766DE4B0044B8BA /* Default-568h@2x.png */; };
+		D07564A11766DE4B0044B8BA /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = D075649E1766DE4B0044B8BA /* Default-Landscape.png */; };
+		D07564A21766DE4B0044B8BA /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D075649F1766DE4B0044B8BA /* Default@2x.png */; };
 		D090835A16D2D61200AC4CA9 /* tex-hd.plist in Resources */ = {isa = PBXBuildFile; fileRef = D090835616D2D61200AC4CA9 /* tex-hd.plist */; };
 		D090835B16D2D61200AC4CA9 /* tex-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = D090835716D2D61200AC4CA9 /* tex-hd.png */; };
 		D090835C16D2D61200AC4CA9 /* tex.plist in Resources */ = {isa = PBXBuildFile; fileRef = D090835816D2D61200AC4CA9 /* tex.plist */; };
@@ -264,6 +267,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D075649D1766DE4B0044B8BA /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		D075649E1766DE4B0044B8BA /* Default-Landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape.png"; sourceTree = "<group>"; };
+		D075649F1766DE4B0044B8BA /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		D090835616D2D61200AC4CA9 /* tex-hd.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "tex-hd.plist"; sourceTree = "<group>"; };
 		D090835716D2D61200AC4CA9 /* tex-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tex-hd.png"; sourceTree = "<group>"; };
 		D090835816D2D61200AC4CA9 /* tex.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = tex.plist; sourceTree = "<group>"; };
@@ -615,6 +621,9 @@
 				D090835916D2D61200AC4CA9 /* tex.png */,
 				DC0C4A1D154AB4DD00B4B727 /* Info.plist */,
 				DC0C4A09154AB4DD00B4B727 /* Default.png */,
+				D075649F1766DE4B0044B8BA /* Default@2x.png */,
+				D075649D1766DE4B0044B8BA /* Default-568h@2x.png */,
+				D075649E1766DE4B0044B8BA /* Default-Landscape.png */,
 				DC0C4A11154AB4DD00B4B727 /* Icon-72.png */,
 				DC0C4A13154AB4DD00B4B727 /* Icon-Small-50.png */,
 				DC0C4A15154AB4DD00B4B727 /* Icon-Small.png */,
@@ -1189,6 +1198,9 @@
 				D090835B16D2D61200AC4CA9 /* tex-hd.png in Resources */,
 				D090835C16D2D61200AC4CA9 /* tex.plist in Resources */,
 				D090835D16D2D61200AC4CA9 /* tex.png in Resources */,
+				D07564A01766DE4B0044B8BA /* Default-568h@2x.png in Resources */,
+				D07564A11766DE4B0044B8BA /* Default-Landscape.png in Resources */,
+				D07564A21766DE4B0044B8BA /* Default@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

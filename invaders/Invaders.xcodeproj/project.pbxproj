@@ -12,6 +12,9 @@
 		D099BD1516D2EF4800987DC4 /* tex-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = D099BD1016D2EF4800987DC4 /* tex-hd.png */; };
 		D099BD1616D2EF4800987DC4 /* tex.plist in Resources */ = {isa = PBXBuildFile; fileRef = D099BD1116D2EF4800987DC4 /* tex.plist */; };
 		D099BD1716D2EF4800987DC4 /* tex.png in Resources */ = {isa = PBXBuildFile; fileRef = D099BD1216D2EF4800987DC4 /* tex.png */; };
+		D0C6FEF61766D5000014727C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C6FEF41766D5000014727C /* Default-568h@2x.png */; };
+		D0C6FEF71766D5000014727C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C6FEF51766D5000014727C /* Default@2x.png */; };
+		D0C6FEF91766D5860014727C /* Default-Landscape.png in Resources */ = {isa = PBXBuildFile; fileRef = D0C6FEF81766D5860014727C /* Default-Landscape.png */; };
 		DC0864B815BD8CE60044A820 /* CCNode+Debug.h in Headers */ = {isa = PBXBuildFile; fileRef = DC0864B515BD8CE60044A820 /* CCNode+Debug.h */; };
 		DC0864B915BD8CE60044A820 /* CCNode+Debug.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0864B615BD8CE60044A820 /* CCNode+Debug.m */; };
 		DC0864BA15BD8CE60044A820 /* ccCArray.m in Sources */ = {isa = PBXBuildFile; fileRef = DC0864B715BD8CE60044A820 /* ccCArray.m */; };
@@ -270,6 +273,9 @@
 		D099BD1016D2EF4800987DC4 /* tex-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tex-hd.png"; sourceTree = "<group>"; };
 		D099BD1116D2EF4800987DC4 /* tex.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = tex.plist; sourceTree = "<group>"; };
 		D099BD1216D2EF4800987DC4 /* tex.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tex.png; sourceTree = "<group>"; };
+		D0C6FEF41766D5000014727C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		D0C6FEF51766D5000014727C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		D0C6FEF81766D5860014727C /* Default-Landscape.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape.png"; sourceTree = "<group>"; };
 		DC0864B515BD8CE60044A820 /* CCNode+Debug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CCNode+Debug.h"; sourceTree = "<group>"; };
 		DC0864B615BD8CE60044A820 /* CCNode+Debug.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CCNode+Debug.m"; sourceTree = "<group>"; };
 		DC0864B715BD8CE60044A820 /* ccCArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ccCArray.m; sourceTree = "<group>"; };
@@ -618,6 +624,9 @@
 				D099BD1216D2EF4800987DC4 /* tex.png */,
 				DC0C4A1D154AB4DD00B4B727 /* Info.plist */,
 				DC0C4A09154AB4DD00B4B727 /* Default.png */,
+				D0C6FEF51766D5000014727C /* Default@2x.png */,
+				D0C6FEF41766D5000014727C /* Default-568h@2x.png */,
+				D0C6FEF81766D5860014727C /* Default-Landscape.png */,
 				DC0C4A11154AB4DD00B4B727 /* Icon-72.png */,
 				DC0C4A13154AB4DD00B4B727 /* Icon-Small-50.png */,
 				DC0C4A15154AB4DD00B4B727 /* Icon-Small.png */,
@@ -1193,6 +1202,9 @@
 				D099BD1516D2EF4800987DC4 /* tex-hd.png in Resources */,
 				D099BD1616D2EF4800987DC4 /* tex.plist in Resources */,
 				D099BD1716D2EF4800987DC4 /* tex.png in Resources */,
+				D0C6FEF61766D5000014727C /* Default-568h@2x.png in Resources */,
+				D0C6FEF71766D5000014727C /* Default@2x.png in Resources */,
+				D0C6FEF91766D5860014727C /* Default-Landscape.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
