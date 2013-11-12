@@ -20,10 +20,10 @@
 	if ((self=[super init])) {
         self.isTouchEnabled = YES;
         
-        //preload all sounds
+        //preload all sound effects
         [[SimpleAudioEngine sharedEngine] preloadEffect:@"fire.caf"];
-        //[[SimpleAudioEngine sharedEngine] preloadEffect:@"hit.caf"];
 		//[[SimpleAudioEngine sharedEngine] preloadEffect:@"miss.caf"];
+        //[[SimpleAudioEngine sharedEngine] preloadEffect:@"hit.caf"];
 	}
 	return self;
 }
